@@ -1,5 +1,5 @@
 create a 000webhost profile
-you can past Embed GIF copy code in locate.html () 
+you can past Embed GIF copy code in locate.html (#you can pest Embed GIF coped code) 
 create a web site
     uplode my files (locate.html , store.php) for public_html
     now you can right click locate.html file and click view 
