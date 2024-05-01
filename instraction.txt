@@ -5,7 +5,7 @@ create a web site
     now you can right click locate.html file and click view 
     after that , you can copy locate.html file url 
     next , send it your target 
-if open it youer target 
+if youer target open it 
     you can refresh file list
     now you can see locate.txt file and open it 
     finaly , you can see your target GPS location
